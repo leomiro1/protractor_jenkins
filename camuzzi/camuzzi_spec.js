@@ -8,7 +8,6 @@ describe("Camuzzi homepage", function () {
 	
 	var loginPage = require('./pages/Compras/loginpage');
 	var homePage = require('./pages/Compras/homepage');
-	var homepageWebmail = require('./pages/Webmail/homepageWebmail');
 	
 	var since = require('jasmine2-custom-message');
 	

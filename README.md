@@ -1,2 +1,2 @@
-# magiis-automation
+# protractor sample to test Jenkins integration
 
